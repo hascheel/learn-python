@@ -1,8 +1,9 @@
 #///////////////////////
 #// Python keywords
-
-# Keywords in Python are reserved words that have special meanings. For example if, else, while, etc.
-# They cannot be used as identifiers. Below is the list of keywords in Python.
+'''
+Keywords in Python are reserved words that have special meanings. For example if, else, while, etc.
+They cannot be used as identifiers. Below is the list of keywords in Python.
+'''
 
 # False      await       else       import       pass
 # None       break       except     in           raise

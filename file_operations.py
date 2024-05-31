@@ -1,4 +1,3 @@
-
 #////////////////////////
 #// 'with' statement
 # with keyword is used to wrap the execution of block of code within methods defined by context manager.

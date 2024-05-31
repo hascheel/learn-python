@@ -1,25 +1,26 @@
 # Operators in general are used to perform operations on values and variables.
 # These are standard symbols used for the purpose of logical and arithmetic operations.
-
-# Arithmetic operators: +, -, *, /, %, ** (exponentiation), // (floor division).
-# Comparison operators: ==, !=, <, >, <=, >=.
-# Logical operators: and, or, not.
-# Assignment operators: =, +=, -=, *=, /=, %=, **=, //=.
-# Bitwise operators: &, |, ^, ~, <<, >>.
-# Strings: Strings can be enclosed in single or double quotes. You can use the + operator to concatenate strings.
-
+'''
+Arithmetic operators: +, -, *, /, %, ** (exponentiation), // (floor division).
+Comparison operators: ==, !=, <, >, <=, >=.
+Logical operators: and, or, not.
+Assignment operators: =, +=, -=, *=, /=, %=, **=, //=.
+Bitwise operators: &, |, ^, ~, <<, >>.
+Strings: Strings can be enclosed in single or double quotes. You can use the + operator to concatenate strings.
+'''
 
 #////////////////////////
 #// Arithmetic Operators
 # Python Arithmetic operators are used to perform basic mathematical operations like addition, subtraction, multiplication, and division.
-
-# The precedence of Arithmetic Operators in Python is as follows:
-# P – Parentheses
-# E – Exponentiation
-# M – Multiplication (Multiplication and division have the same precedence)
-# D – Division
-# A – Addition (Addition and subtraction have the same precedence)
-# S – Subtraction
+'''
+The precedence of Arithmetic Operators in Python is as follows:
+P – Parentheses
+E – Exponentiation
+M – Multiplication (Multiplication and division have the same precedence)
+D – Division
+A – Addition (Addition and subtraction have the same precedence)
+S – Subtraction
+'''
 
 a = 9
 b = 4
