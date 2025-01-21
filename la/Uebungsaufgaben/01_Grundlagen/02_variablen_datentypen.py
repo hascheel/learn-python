@@ -1,0 +1,6 @@
+'''
+Variablen & Datentypen: Weise einer Variablen deinen Namen zu und gib ihn aus. 
+'''
+
+name = "Hardy"
+print(name)
