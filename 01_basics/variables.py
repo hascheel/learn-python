@@ -28,8 +28,8 @@ f() # output: Welcome geeks
 # Global variables
 ''' in Python are the ones that are defined and declared outside a function, 
 and we need to use them inside a function. '''
-# This function has a variable with 
-# name same as s 
+
+# This function has a variable with name same as s 
 def f(): 
 	print(s) 
 
